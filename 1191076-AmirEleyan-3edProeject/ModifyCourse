@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo "Please select your choice (A-D):"
+echo "
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+"
+read choise 
+case $choise in
+	 'A') ./deleteACourse
+	 ;;
+	 'B') ./deleteAllCourses
+	 ;;
+	 'C') ./modifyCourseInfo
+	 ;;
+	 'D') exit 0
+	 ;;
+	 *) echo "Invalid choise"
+	 ;;
+esac

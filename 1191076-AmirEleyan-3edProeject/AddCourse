@@ -1,0 +1,48 @@
+#!/bin/bash
+
+echo "Please Enter The Course ID:  "
+
+read courseID # get course ID
+
+
+if [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is valid
+	then
+		if [ "$(grep $courseID courses|cut -d: -f1)" = "$courseID" ] # find course id if exist or not
+			then 
+				echo $courseID "Is Already Exist, Try again"
+				exit 0
+		else
+			echo "Please Enter Course Full name:  "
+			read courseFullName # get course full name
+			
+			echo "Please Enter The ISBN Number:  "
+			read isbn # get course isbn
+			
+			if [[ $isbn == [0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9] ]];
+				then
+					echo "Enter The Full Name Of Instructor(FirstName_LastName): "
+					read instName # get full name of instruction
+					
+					if [[ $instName == *_* ]] ; # check if the naem have _
+						then
+							firstChar=$(echo $instName | cut -c1 | tr A-Z a-z)
+							lastName=$(echo $instName | cut -d_ -f2| tr A-Z a-z)
+							email=$firstChar$lastName"@birzeit.edu"
+							echo $courseFullName":"$courseID":"$isbn":"$instName":"$email>>courses
+							echo $courseFullName":"$courseID":"$isbn":"$instName":"$email" added successfully"
+									
+					else
+						echo "The Instructor Name Is Invalid, Try again"
+						exit 0
+					fi
+			else 
+				echo "The ISBN Number Is Invalid, Try again"
+				exit 0
+			fi
+		fi
+	
+	
+else 
+	echo "The Course ID Is Invalid, Try again"
+
+fi

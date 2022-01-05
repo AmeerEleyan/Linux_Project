@@ -1,0 +1,61 @@
+#!/bin/bash
+echo "Please select your choice (1-4):"
+echo "
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+"
+read choise 
+case $choise in
+	 1) 
+	 	echo "Enter The First Name Of The Instructor: "
+	 	read fname
+	 	for var in $(grep -n "$fname" courses|cut -d: -f1,5)
+	 	do 
+	 		firstName=$(echo $var | cut -d: -f2 | cut -d_ -f1)
+	 		if [ "$firstName" = "$fname" ] 
+	 		then 
+	 			line=$(echo $var | cut -d: -f1)
+	 			sed -n "$line"p courses
+	 		fi
+	 	done
+	 	
+	 ;;
+	 2) 
+	 	echo "Enter The Last Name Of The Instructor: "
+	 	read lname
+	 	for var in $(grep -n "$fname" courses|cut -d: -f1,5)
+	 	do 
+	 		lastName=$(echo $var | cut -d: -f2 | cut -d_ -f2)
+	 		if [ "$lastName" = "$lname" ] 
+	 		then 
+	 			line=$(echo $var | cut -d: -f1)
+	 			sed -n "$line"p courses
+	 		fi
+	 	done
+	 ;;
+	 3) 
+	 	echo "Enter Part Of The Of The Instructor: "
+	 	read part
+	 	for var in $(grep -n "$part" courses|cut -d: -f1,5)
+	 	do 
+	 		lastName=$(echo $var | cut -d: -f2 | cut -d_ -f2)
+	 		firstName=$(echo $var | cut -d: -f2 | cut -d_ -f1)
+	 		line=$(echo $var | cut -d: -f1)
+	 		
+	 		if [ "$part" = "$lastName" ] 
+	 		then 
+	 			sed -n "$line"p courses
+	 			
+	 		elif [ "$firstName" = "$part" ] 
+	 		then
+	 			sed -n "$line"p courses	
+	 		fi
+	 	done
+	 ;;
+	 4) exit 0
+	  ;;
+	 *) echo "Invalid choise"
+	 ;;
+esac

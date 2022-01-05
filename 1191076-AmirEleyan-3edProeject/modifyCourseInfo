@@ -1,0 +1,57 @@
+#!/bin/bash
+echo "Please Enter The Course ID:"
+read courseID
+
+if [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is valid
+then
+		if [ "$(grep $courseID courses|cut -d: -f2)" = "$courseID" ] # find course id if exist or not
+		then
+			echo "Please select your choice (1-3):"
+			echo "
+1- Edit ISBN:
+2- Edit Last Name Of The Instructor: 
+3- Exit:"
+			read choise 
+			case $choise in
+			
+				 1) # begening of the first case
+				 	echo "Enter The New ISBN"
+				 	read newIsbn
+				 	if [[ $newIsbn == [0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9][0-9] ]];
+						then
+							line=$(grep -n $courseID courses|cut -d: -f1)
+					 		isbn=$(grep $courseID courses|cut -d: -f3)
+					 		sed -i "$line s/$isbn/$newIsbn/" courses
+					 		echo "Successfully Updated"
+					else 
+						echo "The ISBN Number Is Invalid, Try again"
+					fi
+					# end of the first case
+					 	
+				 ;;
+				 2) # begening of the second case
+				 	echo "Enter The New LastName Of The Instructor"
+				 	read newLastName
+				 	line=$(grep -n $courseID courses|cut -d: -f1)
+				 	name=$(grep $courseID courses|cut -d: -f4)
+				 	fname=$(grep $courseID courses|cut -d: -f4|cut -d_ -f1)
+				 	newName=($fname"_"$newLastName)
+				 	sed -i "$line s/$name/$newName/" courses
+				 	echo "Successfully Updated"
+				 	# end of the second case			 	
+				 ;;
+				 3) exit 0
+				  ;;
+				 *) echo "Invalid choise"
+				 ;;
+			esac
+			
+		else 
+			echo $courseID" Does Not Exist"
+		fi
+
+else
+	"The Course ID Is Invalid, Try again"
+fi
+
+

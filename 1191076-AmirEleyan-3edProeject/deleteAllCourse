@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "" > courses
+echo "All courses has been deleted"
+exit 0

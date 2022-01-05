@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo "Enter The Course ID: "
+
+read courseID # get course id
+if [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is valid
+	then
+		temp=$(grep -n $courseID courses|cut -d: -f3) # search for the course id in the courses file
+
+		if [ "$temp" = "$courseID" ] 
+			then
+				temp=$(grep -n $courseID courses|cut -d: -f1)
+				sed -i "$temp"d courses # delete the line that have courseID from the file
+				echo $courseID "Has been Deleted"
+		else 
+			echo $courseID "Does Not exist"
+		fi
+		
+else 
+	echo "The Course ID Is Invalid, Try again"
+fi
+

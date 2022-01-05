@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "Please select your choice (A-C):"
+echo "
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+"
+read choise 
+case $choise in
+	 'A') ./searchByIdNumber
+	 ;;
+	 'B') ./searchByNameOfInstructor
+	 ;;
+	 'C') exit 0
+	 ;;
+	 *) echo "Invalid choise"
+	 ;;
+esac

@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "Please Enter The Course ID"
+read courseID
+
+if [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is valid
+then
+		if [ "$(grep $courseID courses|cut -d: -f2)" = "$courseID" ] # find course id if exist or not
+			then
+			courseName=$(grep $courseID courses|cut -d: -f1)
+			courseID=$(grep $courseID courses|cut -d: -f2)
+			isbn=$(grep $courseID courses|cut -d: -f3)
+			instName=$(grep $courseID courses|cut -d: -f4)
+			echo "Full Name: "$courseName", Course ID: "$courseID", ISBN: "$isbn", Instruction Name: "$instName
+		else 
+			echo $courseID" Does Not Exist"
+		fi
+
+else
+	echo "The Course ID Is Invalid, Try again"
+fi

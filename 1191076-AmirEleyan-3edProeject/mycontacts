@@ -1,0 +1,35 @@
+#!/bin/bash
+echo "Please select your choice (1-5):"
+echo "
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+"
+read choise
+while [ $choise -ne 5 ]
+do
+	case $choise in
+	 1) ./AddCourse
+	 ;;
+	 2) ./ModifyCourse
+	 ;;
+	 3) ./SearchCourses
+	  ;;
+	 4) cat courses
+	  ;;
+	 *) echo "Invalid choise"
+	 ;;
+	esac
+	
+	echo "Please select your choice (1-4):"
+	echo "
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit"
+	read choise
+done 
+

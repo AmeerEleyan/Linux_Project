@@ -1,0 +1,594 @@
+Script started on 2021-05-30 03:36:10+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="81" LINES="24"]
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ dt[Kate
+Sun 30 May 2021 03:36:13 EEST
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ wo[Khoami
+legend
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ uname -a
+Linux LEGEND 5.8.0-53-generic #60~20.04.1-Ubuntu SMP Thu May 6 09:52:46 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ fineg[K[Kger legend[5Puname -afinger legend
+Login: legend         			Name: Ameer Eleyan
+Directory: /home/legend             	Shell: /bin/bash
+Office: 200, 059-898-6107		Home Phone: 022487078
+On since Sun May 30 02:40 (EEST) on :0 from :0 (messages off)
+Mail last read Wed Apr  7 19:19 2021 (EEST)
+No Plan.
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ toucvh[K[Kh mycontacts
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmo [Kd +x mycontacts  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K 
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touv[Kch AddCourse[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kvi ch[K[Kmycontacts 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"mycontacts" 0 lines, 0 characters[2;1H[94m~                                                                                [3;1H~                                                                                [4;1H~                                                                                [5;1H~                                                                                [6;1H~                                                                                [7;1H~                                                                                [8;1H~                                                                                [9;1H~                                                                                [10;1H~                                                                                [11;1H~                                                                                [12;1H~                                                                                [13;1H~                                                                                [14;1H~                                                                                [15;1H~                                                                                [16;1H~                                                                                [17;1H~                                                                                [18;1H~                                                                                [19;1H~                                                                                [20;1H~                                                                                [21;1H~                                                                                [22;1H~                                                                                [23;1H~                                                                                [1;1H[?25h[?2004l[>4;m[?25l[mread choise
+while [ $choise -ne 4 ][2;24H[K[3;1Hdo[3;3H[K[4;1H        case $choise in[4;24H[K[5;1H         1) ./AddCourse[5;24H[K[6;1H         ;;[6;12H[K[7;1H         2) ./ModifyCourse[7;27H[K[8;1H         ;;[8;12H[K[9;1H         3) ./^[:wq!^[earchCourses[9;35H[K[10;1H          ;;[10;13H[K[11;1H         *) echo "Invalid choise"[11;34H[K[12;1H         ;;[12;12H[K[13;1H        esac[13;13H[K[14;1H        [14;9H[K[15;1H        echo "Please select your choice (1-4):"[15;48H[K[16;1H        echo "[16;15H[K[17;1H1- Add Course:[17;15H[K[18;1H2- Modify Course:[18;18H[K[19;1H3- ^[:wq!^[earch Courses:[19;26H[K[20;1H4- Exit"[20;9H[K[21;1H        read choise[21;20H[K[22;1Hdone [22;6H[K[23;1H[K[23;1H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"mycontacts" 31 lines, 442 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touch a[KAddCourse
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touch AddCourse[C[C[C[1P AddCourse[1P AddCourse[1P AddCourse[1P AddCourse[1P AddCoursec AddCourseh AddCoursem AddCourseo AddCoursed AddCourse[C AddCourse+ AddCoursex AddCourse
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmod +x AddCourse[1P AddCourse[1P AddCourse[1PAddCourse[1P AddCourse[1P AddCourse[1P AddCourse[1P AddCourse[1P AddCoursev AddCoursei AddCourse
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"AddCourse" 0 lines, 0 characters[2;1H[94m~                                                                                [3;1H~                                                                                [4;1H~                                                                                [5;1H~                                                                                [6;1H~                                                                                [7;1H~                                                                                [8;1H~                                                                                [9;1H~                                                                                [10;1H~                                                                                [11;1H~                                                                                [12;1H~                                                                                [13;1H~                                                                                [14;1H~                                                                                [15;1H~                                                                                [16;1H~                                                                                [17;1H~                                                                                [18;1H~                                                                                [19;1H~                                                                                [20;1H~                                                                                [21;1H~                                                                                [22;1H~                                                                                [23;1H~                                                                                [1;1H[?25h[?2004l[>4;m[?25l[m[56Cecho $courseFullName":"$cc[2;1HourseID":"$isbn":"$instName":"$email>>courses[2;46H[K[3;1H                                                        echo $courseFullName":"$cc[4;1HourseID":"$isbn":"$instName":"$email" added successfully"[4;58H[K[5;1H                                                                        [5;73H[K[6;1H                                        else[6;45H[K[7;1H                                                echo "The Instructor Name Is Invaa[8;1Hlid, Try again"[8;16H[K[9;1H                                                exit 0[9;55H[K[10;1H                                        fi[10;43H[K[11;1H                        else [11;30H[K[12;1H                                echo "The I^[:wq!^[BN Number Is Invalid, Try agaii[13;1Hn"[13;3H[K[14;1H                                exit 0[14;39H[K[15;1H                        fi[15;27H[K[16;1H                fi[16;19H[K[17;1H        [17;9H[K[18;1H        [18;9H[K[19;1Helse [19;6H[K[20;1H        echo "The Course ID Is Invalid, Try again"[20;51H[K[21;1H[K[22;1Hfi[22;3H[K[22;3H[?25h[?25l`[?25h[?25l[?25h[?2004h[>4;2m[?25l[22;3H[K[22;2H[?25h[?2004l[>4;m[?25lC[22;2H[K[23;1Hfi[23;3H[K[22;2H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hq![?25l[24;3H[K[24;3H[?25h[?25l[97m[41mE37: No write since last change (add ! to override)[?2004h[22;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[97m[41mE37: No write since last change (add ! to override)[?2004h[22;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq![?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi AddCourse
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"AddCourse" 0 lines, 0 characters[2;1H[94m~                                                                                [3;1H~                                                                                [4;1H~                                                                                [5;1H~                                                                                [6;1H~                                                                                [7;1H~                                                                                [8;1H~                                                                                [9;1H~                                                                                [10;1H~                                                                                [11;1H~                                                                                [12;1H~                                                                                [13;1H~                                                                                [14;1H~                                                                                [15;1H~                                                                                [16;1H~                                                                                [17;1H~                                                                                [18;1H~                                                                                [19;1H~                                                                                [20;1H~                                                                                [21;1H~                                                                                [22;1H~                                                                                [23;1H~                                                                                [1;1H[?25h[?2004l[>4;m[?25l[m[56Cecho $courseFullName":"$cc[2;1HourseID":"$isbn":"$instName":"$email>>courses[2;46H[K[3;1H                                                        echo $courseFullName":"$cc[4;1HourseID":"$isbn":"$instName":"$email" added successfully"[4;58H[K[5;1H                                                                        [5;73H[K[6;1H                                        else[6;45H[K[7;1H                                                echo "The Instructor Name Is Invaa[8;1Hlid, Try again"[8;16H[K[9;1H                                                exit 0[9;55H[K[10;1H                                        fi[10;43H[K[11;1H                        else [11;30H[K[12;1H                                echo "The I^[:wq!^[BN Number Is Invalid, Try agaii[13;1Hn"[13;3H[K[14;1H                                exit 0[14;39H[K[15;1H                        fi[15;27H[K[16;1H                fi[16;19H[K[17;1H        [17;9H[K[18;1H        [18;9H[K[19;1Helse [19;6H[K[20;1H        echo "The Course ID Is Invalid, Try again"[20;51H[K[21;1H[K[22;1Hfi[22;3H[K[22;3H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"AddCourse" 48 lines, 1375 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi S[K[K[K[Ktouch ModifyCourse
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touch ModifyCourse[1PModifyCourse[1PModifyCourse[1PModifyCourse[1PModifyCourse[1PModifyCourse[1PModifyCoursecModifyCoursehModifyCoursemModifyCourseoModifyCoursedModifyCourse ModifyCourse+ModifyCoursexModifyCourse [A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[C[C ModifyCourse[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[C[C[C
+
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmod +x ModifyCourse[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx ModifyCourse [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[C[1P ModifyCourse[C[1PModifyCoursecModifyCourseiModifyCourse[1PModifyCourse[1PModifyCoursevModifyCourseiModifyCourse ModifyCourse
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"ModifyCourse" 0 lines, 0 characters[2;1H[94m~                                                                                [3;1H~                                                                                [4;1H~                                                                                [5;1H~                                                                                [6;1H~                                                                                [7;1H~                                                                                [8;1H~                                                                                [9;1H~                                                                                [10;1H~                                                                                [11;1H~                                                                                [12;1H~                                                                                [13;1H~                                                                                [14;1H~                                                                                [15;1H~                                                                                [16;1H~                                                                                [17;1H~                                                                                [18;1H~                                                                                [19;1H~                                                                                [20;1H~                                                                                [21;1H~                                                                                [22;1H~                                                                                [23;1H~                                                                                [1;1H[?25h[?2004l[>4;m[?25l[m#!/bin/bash[2;1H[K[3;1Hecho "Please select your choice (A-D):"[3;40H[K[4;1Hecho "[4;7H[K[5;1HA- Delete A Course:[5;20H[K[6;1HB- Delete All Courses:[6;23H[K[7;1HC- Modify Course Info:[7;23H[K[8;1HD- Exit:[8;9H[K[9;1H"[9;2H[K[10;1Hread choise [10;13H[K[11;1Hcase $choise in[11;16H[K[12;1H         'A') ./deleteACourse[12;30H[K[13;1H         ;;[13;12H[K[14;1H         'B') ./deleteAllCourses[14;33H[K[15;1H         ;;[15;12H[K[16;1H         'C') ./modifyCourseInfo[16;33H[K[17;1H         ;;[17;12H[K[18;1H         'D') exit 0[18;21H[K[19;1H         ;;[19;12H[K[20;1H         *) echo "Invalid choise"[20;34H[K[21;1H         ;;[21;12H[K[22;1Hesac[22;5H[K[22;5H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"ModifyCourse" 22 lines, 312 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [K]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [K]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [K]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touch modifyC[K[K[K[K[K[K[KdeleteACourse del eteAllCourse delete[K[K[K[K[K[KmodifyCourseInfo
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ touch deleteACourse deleteAllCourse modifyCourseInfo[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [8Pvi ModifyCourse
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch deleteACourse deleteAllCourse modifyCourseInfo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C deleteACourse delet[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C deleteACourse delete[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C deleteACourse deleteA[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C deleteACourse deleteAl[C[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C deleteACourse deleteAll[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [CdeleteACourse deleteAllC[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ cdeleteACourse deleteAll[1@C[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [ChdeleteACourse deleteAl[1@l[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[CmdeleteACourse deleteA[C[1@l[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[CodeleteACourse delete[1@A[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[CdeleteACourse delet[1@e[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C deleteACourse dele[1@t[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C=deleteACourse del[1@e[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[CxdeleteACourse de[1@l[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[C[CdeleteACourse del[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[CdeleteACourse dele[1P[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C+deleteACourse del[1@e[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[CxdeleteACourse de[1@l[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[C[C deleteACourse d[1@e[A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [C[C[C[C[C[C[C[C[C
+
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi deleteAc[KCourse 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"deleteACourse" 0 lines, 0 characters[2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[mecho "Enter The Course ID: "[2;1H[K[3;1Hread courseID # get course id[3;30H[K[4;1Hif [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is vv[5;1Halid[5;5H[K[6;1H        then[6;13H[K[7;1H                temp=$(grep -n $courseID courses|cut -d: -f2) # search for the courss[8;1He id in the courses file[8;25H[K[9;1H[K[10;1H                if [ "$temp" = "$courseID" ] [10;46H[K[11;1H                        then[11;29H[K[12;1H                                temp=$(grep -n $courseID courses|cut -d: -f1)[12;78H[K[13;1H                                sed -i "$temp"d courses # delete the line that have  [14;1HcourseID from the file[14;23H[K[15;1H                                echo $courseID "Has been Deleted"[15;66H[K[16;1H                else [16;22H[K[17;1H                        echo $courseID "Does Not exist"[17;56H[K[18;1H                fi[18;19H[K[19;1H                [19;17H[K[20;1Helse [20;6H[K[21;1H        echo "The Course ID Is Invalid, Try again"[21;51H[K[22;1Hfi[22;3H[K[23;1H[K[23;1H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"deleteACourse" 22 lines, 576 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi deleteAllCourse 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"deleteAllCourse" 0 lines, 0 characters[2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m#!/bin/bash[2;1H[K[3;1Hecho "" > courses[3;18H[K[4;1Hecho "All courses has been deleted"[4;36H[K[5;1Hexit 0[5;7H[K[5;7H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"deleteAllCourse" 5 lines, 74 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi modu[KifyCourseInfo 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"modifyCourseInfo" 0 lines, 0 characters[2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m[40Cfname=$(grep $courseID courses|cut -d: -f4|cc[2;1Hut -d_ -f1)[2;12H[K[3;1H                                        newName=($fname"_"$newLastName)[3;72H[K[4;1H                                        sed -i "$line s/$name/$newName/" courses[4;81H[K[5;1H                                        echo "^[:wq!^[uccessfully Updated"[5;75H[K[6;1H                                        # end of the second case                     [7;1H            [7;13H[K[8;1H                                 ;;[8;36H[K[9;1H                                 3) exit 0[9;43H[K[10;1H                                  ;;[10;37H[K[11;1H                                 *) echo "Invalid choise"[11;58H[K[12;1H                                 ;;[12;36H[K[13;1H                        esac[13;29H[K[14;1H                        [14;25H[K[15;1H                else [15;22H[K[16;1H                        echo $courseID" Does Not Exist"[16;56H[K[17;1H                fi[17;19H[K[18;1H[K[19;1Helse[19;5H[K[20;1H        "The Course ID Is Invalid, Try again"[20;46H[K[21;1Hfi[21;3H[K[22;1H[K[23;1H[K[23;1H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"modifyCourseInfo" 57 lines, 1540 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ ci [K[Ktouch[K[K[K[K[Ktouch [K[K[K[K[K[K[Ktouch courses
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi SearchCoursee[Ks
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"SearchCourses" [New File][2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m#!/bin/bash[2;1H[K[3;1Hecho "Please select your choice (A-C):"[3;40H[K[4;1Hecho "[4;7H[K[5;1HA- ^[:wq!^[earch By Course ID:[5;31H[K[6;1HB- ^[:wq!^[earch By Name Of The Instructor:[6;44H[K[7;1HC- Exit:[7;9H[K[8;1H"[8;2H[K[9;1Hread choise [9;13H[K[10;1Hcase $choise in[10;16H[K[11;1H         'A') ./searchByIdNumber[11;33H[K[12;1H         ;;[12;12H[K[13;1H         'B') ./searchByNameOfInstructor[13;41H[K[14;1H         ;;[14;12H[K[15;1H         'C') exit 0[15;21H[K[16;1H         ;;[16;12H[K[17;1H         *) echo "Invalid choise"[17;34H[K[18;1H         ;;[18;12H[K[19;1Hesac[19;5H[K[19;5H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"SearchCourses" [New File] 19 lines, 301 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi SearchCourses[1PSearchCourses[1PSearchCourses[1PSearchCoursescSearchCourseshSearchCoursesmSearchCoursesoSearchCoursesdSearchCourses SearchCourses+SearchCoursesxSearchCourses SearchCourses
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi searchby[K[KBY[KyIdNumn[Kber
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"searchByIdNumber" [New File][2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m#!/bin/bash
+echo "Please Enter The Course ID"[2;34H[K[3;1Hread courseID[3;14H[K[4;1H[K[5;1Hif [[ $courseID == [a-z][a-z][a-z][a-z][0-9][0-9][0-9] ]]; # check if course id is vv[6;1Halid[6;5H[K[7;1Hthen[7;5H[K[8;1H                if [ "$(grep $courseID courses|cut -d: -f2)" = "$courseID" ] # find  [9;1Hcourse id if exist or not[9;26H[K[10;1H                        then[10;29H[K[11;1H                        courseName=$(grep $courseID courses|cut -d: -f1)[11;73H[K[12;1H                        courseID=$(grep $courseID courses|cut -d: -f2)[12;71H[K[13;1H                        isbn=$(grep $courseID courses|cut -d: -f3)[13;67H[K[14;1H                        instName=$(grep $courseID courses|cut -d: -f4)[14;71H[K[15;1H                        echo "Full Name: "$courseName", Course ID: "$courseID", I^[::[16;1Hwq!^[BN: "$isbn", Instruction Name: "$instName[16;47H[K[17;1H                else [17;22H[K[18;1H                        echo $courseID" Does Not Exist"[18;56H[K[19;1H                fi[19;19H[K[20;1H[K[21;1Helse[21;5H[K[22;1H        echo "The Course ID Is Invalid, Try again"[22;51H[K[23;1Hfi[23;3H[K[23;3H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"searchByIdNumber" [New File] 20 lines, 668 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmod +x sw[KearchByIdNumber 
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmod +x searchByIdNumber [A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [4Pvi searchByIdNumber
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod +x searchByIdNumber [A]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ [4Pvi searchByIdNumber
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[KyNm[KameOfIsn[K[Knstru ctor
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"searchByNameOfInstructor" [New File][2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m[24Cthen
+                                grep "$fname" courses[2;54H[K[3;1H                else [3;22H[K[4;1H                        echo "There are no instructor that"[4;60H[K[5;1H                fi[5;19H[K[6;1H         ;;[6;12H[K[7;1H         2) [7;13H[K[8;1H                echo "Enter The Last Name Of The Instructor: "[8;63H[K[9;1H                read fname[9;27H[K[10;1H                if [ "$(grep "$fname" courses|cut -d: -f4| cut -d_ -f2)" = "$fname"  [11;1H] [11;3H[K[12;1H                        then[12;29H[K[13;1H                                grep "$fname" courses| sort -k4[13;64H[K[14;1H                else [14;22H[K[15;1H                        echo "There are no instructor that"[15;60H[K[16;1H                fi[16;19H[K[17;1H         ;;[17;12H[K[18;1H         3) exit 0[18;19H[K[19;1H          ;;[19;13H[K[20;1H         *) echo "Invalid choise"[20;34H[K[21;1H         ;;[21;12H[K[22;1Hesac[22;5H[K[22;5H[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25lA[22;2H[K[23;1Hesac[23;5H[K[22;1H[?25h[?2004l[>4;m[?2004h[>4;2m[?25l
+A[23;2H[K[22;1H[?25h[?2004l[>4;m[?25lA[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lA[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lA[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25lB[?25h[?2004l[>4;m[?2004h[>4;2m[?25l
+B[22;1H[?25h[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lB[?25h[?2004h[>4;2m[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?2004h[>4;2m[?25l[?25h[?2004l[>4;m[?25lB[?25h[?25l:[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hq![?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ vi searchByNameOfInstructor
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"searchByNameOfInstructor" [New File][2;1H[94m~                                                                                   [3;1H~                                                                                   [4;1H~                                                                                   [5;1H~                                                                                   [6;1H~                                                                                   [7;1H~                                                                                   [8;1H~                                                                                   [9;1H~                                                                                   [10;1H~                                                                                   [11;1H~                                                                                   [12;1H~                                                                                   [13;1H~                                                                                   [14;1H~                                                                                   [15;1H~                                                                                   [16;1H~                                                                                   [17;1H~                                                                                   [18;1H~                                                                                   [19;1H~                                                                                   [20;1H~                                                                                   [21;1H~                                                                                   [22;1H~                                                                                   [23;1H~                                                                                   [1;1H[?25h[?2004l[>4;m[?25l[m[24Cthen
+                                grep "$fname" courses[2;54H[K[3;1H                else [3;22H[K[4;1H                        echo "There are no instructor that"[4;60H[K[5;1H                fi[5;19H[K[6;1H         ;;[6;12H[K[7;1H         2) [7;13H[K[8;1H                echo "Enter The Last Name Of The Instructor: "[8;63H[K[9;1H                read fname[9;27H[K[10;1H                if [ "$(grep "$fname" courses|cut -d: -f4| cut -d_ -f2)" = "$fname"  [11;1H] [11;3H[K[12;1H                        then[12;29H[K[13;1H                                grep "$fname" courses| sort -k4[13;64H[K[14;1H                else [14;22H[K[15;1H                        echo "There are no instructor that"[15;60H[K[16;1H                fi[16;19H[K[17;1H         ;;[17;12H[K[18;1H         3) exit 0[18;19H[K[19;1H          ;;[19;13H[K[20;1H         *) echo "Invalid choise"[20;34H[K[21;1H         ;;[21;12H[K[22;1Hesac[22;5H[K[22;5H[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?2004h[?25hwq![?25l[?2004l"searchByNameOfInstructor" [New File] 34 lines, 753 characters written
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ chmod +x searchByNameOfInstructor 
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ exit
+exit
+
+Script done on 2021-05-30 04:01:55+03:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2021-06-03 16:57:23+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="81" LINES="24"]
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ m[Kcat cor[Kurses 
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ mycontacts 
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+
+7
+Invalid choise
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+a
+./mycontacts: line 10: [: a: integer expression expected
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ 
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ mycontacts 
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+
+1
+Please Enter The Course ID:  
+encs234
+Please Enter Course Full name:  
+Did gital
+Please Enter The ISBN Number:  
+41-478-1568
+Enter The Full Name Of Instructor(FirstName_LastName): 
+Moua  hammad_Hussein
+Digital:encs234:41-478-1568:Mohammad_Hussein:mhussein@birzeit.edu added successfully
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+A
+Please Enter The Course ID
+encs234
+Full Name: Digital, Course ID: encs234, ISBN: 41-478-1568, Instruction Name: Mohammad_Hussein
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+B
+Please select your choice (1-3):
+
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+
+1
+Enter The First Name Of The Instructor: 
+Mohammad
+Digital:encs234:41-478-1568:Mohammad_Hussein:mhussein@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+C
+Please Enter The Course ID:
+encd e s234
+Please select your choice (1-3):
+
+1- Edit ISBN:
+2- Edit Last Name Of The Instructor: 
+3- Exit:
+2 1
+Enter The New ISBN
+14-48-45824
+The ISBN Number Is Invalid, Try again
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+A
+Enter The Course ID: 
+encs234
+encs234 Does Not exist
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+A
+Enter The Course ID: 
+encs234
+sed: -e expression #1, char 2: extra characters after command
+encs234 Has been Deleted
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+4
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ cat courses 
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Digital:encs234:41-478-1568:Mohammad_Hussein:mhussein@birzeit.edu
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ mycontacts 
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+A
+Enter The Course ID: 
+encs234
+sh: 1: ncs234d: not found
+sh: 1: ncs234d: not found
+sh: 1: ncs234d: not found
+sh: 1: ncs234d: not found
+sh: 1: ncs234d: not found
+sh: 1: ncs234d: not found
+encs234 Has been Deleted
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+4
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ cat courses 
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Digital:encs234:41-478-1568:Mohammad_Hussein:mhussein@birzeit.edu
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ mycontacts 
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+
+2 3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+A
+Please Enter The Course ID
+encs234  33
+encs233 Does Not Exist
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+A
+Please Enter The Course ID
+comp233
+Full Name: Discrete, Course ID: comp233, ISBN: 10-214-1542, Instruction Name: Mustafa_Jarar
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+A
+Enter The Course ID: 
+encs234
+encs234 Has been Deleted
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Exit
+4
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ cat courses 
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ myc[K[K[Kmycontacts 
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+b
+Invalid choise
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+b b B
+Please select your choice (1-3):
+
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+
+Refat
+Invalid choise
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+B
+Please select your choice (1-3):
+
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+
+1
+Enter The First Name Of The Instructor: 
+Refat
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+B
+Please select your choice (1-3):
+
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+
+2
+Enter The Last Name Of The Instructor: 
+Othman
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+3
+Please select your choice (A-C):
+
+A- Search By Course ID:
+B- Search By Name Of The Instructor:
+C- Exit:
+
+B
+Please select your choice (1-3):
+
+1- Search by the first name of the instructor:
+2- Search by the last name of the instructor:
+3- Search by the part of the name of the instructor:
+4- Exit
+
+3
+Enter Part Of The Of The Instructor: 
+jarar     Jarar
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+4
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+C
+Please Enter The Course ID:
+e cmo[   omp23  311
+Please select your choice (1-3):
+
+1- Edit ISBN:
+2- Edit Last Name Of The Instructor: 
+3- Exit:
+1
+Enter The New ISBN
+l
+The ISBN Number Is Invalid, Try again
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+C
+Please Enter The Course ID:
+comp242
+Please select your choice (1-3):
+
+1- Edit ISBN:
+2- Edit Last Name Of The Instructor: 
+3- Exit:
+2
+Enter The New LastName Of The Instructor
+Ameer
+^[:wq!^[uccessfully Updated
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+4
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Ameer:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+2
+Please select your choice (A-D):
+
+A- Delete A Course:
+B- Delete All Courses:
+C- Modify Course Info:
+D- Exit:
+
+C
+Please Enter The Course ID:
+comp242
+Please select your choice (1-3):
+
+1- Edit ISBN:
+2- Edit Last Name Of The Instructor: 
+3- Exit:
+2
+Enter The New LastName Of The Instructor
+Nawahdah
+Successfully Updated
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+4
+Java:comp231:11-222-3333:Murad_Njoum:mnjoum@birzeit.edu
+Linux:comp311:22-333-4444:Refat_Othman:rothman@birzeit.edu
+Database:comp333:12-123-1234:Bassem_Alserafi:balserafi@birzeit.edu
+DataStracture:comp242:14-142-1523:Mamoun_Nawahdah:mnawahdah@birzeit.edu
+Discrete:comp233:10-214-1542:Mustafa_Jarar:mjarar@birzeit.edu
+Please select your choice (1-4):
+
+1- Add Course:
+2- Modify Course:
+3- Search Courses:
+4- Display Courses:
+5- Exit
+5
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ Project Done N[KBt [K[Ky amme[K[K[K[Kam[K[KAmeer Elayan[K[K[K[Keyan
+
+Command 'Project' not found, did you mean:
+
+  command 'mProject' from deb montage (6.0+dfsg-6build3)
+
+Try: sudo apt install <deb name>
+
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ Project Done By Ameer Eleyan[1@e[1@c[1@h[1@o[1@ 
+Project Done By Ameer Eleyan
+]0;legend@LEGEND: ~/finalProject/1191076-AmirEleyan-3edProeject[01;32mlegend@LEGEND[00m:[01;34m~/finalProject/1191076-AmirEleyan-3edProeject[00m$ exit
+exit
+
+Script done on 2021-06-03 17:34:29+03:00 [COMMAND_EXIT_CODE="0"]
